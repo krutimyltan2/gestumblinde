@@ -16,6 +16,7 @@ the SPHINCS+ submission
 [[FIPS.205]](https://csrc.nist.gov/pubs/fips/205/ipd)
   NIST - "FIPS 205 (Draft) - Stateless Hash-Based Digital Signature
   Standard", 2023.
+
 [[SPHINCSpv3.1]](https://sphincs.org/resources.html)
 Aumasson et al. - "SPHINCS+: Submission to the NIST post-quantum
   project, v.3.1", 2022.
