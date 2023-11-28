@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-xc, -std=c99, -I/home/olikru/packages/tiny_sha3, -std=c99, -pedantic, -Wall, -Werror, -Wstrict-prototypes, -Wmissing-prototypes, -Wmissing-declarations, -Wshadow, -Wpointer-arith, -Wcast-qual, -Wsign-compare, -O2, -fstack-protector-all, -Wtype-limits, -fno-common, -fno-builtin, -I/usr/local/include, -DSLH_DSA_SHAKE_128S]
